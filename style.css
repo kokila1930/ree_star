@@ -1,0 +1,117 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.header{
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+.food-1{
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: solid black 2px;
+    color:black;
+    vertical-align: top;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+}
+.image1{
+    width: 250px;
+    height: 400px;
+}
+
+.food-2{
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: solid black 2px;
+    color:black;
+    vertical-align: top;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+}
+.image2{
+    width: 255px;
+    height: 400px;
+}
+.food-3{
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: solid black 2px;
+    color:black;
+    vertical-align: top;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+}
+.image3{
+    width: 250px;
+    height: 400px;
+}
+
+.food-4{
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: solid black 2px;
+    color:black;
+    vertical-align: top;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+}
+.image4{
+    width: 255px;
+    height: 400px;
+}
+button{
+    padding: 14.5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}
+a{
+    padding: 2px;
+    color: antiquewhite;
+    font-size: small;
+}
+a:hover{
+    color:blue;
+}
+.container{
+    padding: 15px;
+}
+.contact{
+    margin: 10px;
+    padding-left: 42%;
+    font-size:larger;
+}
+.footer{
+    padding: 35px;
+    background-color: black;
+    color: white;
+}
+.send{
+    padding-right: 250px;
+    padding-left: 250px;
+    background-color: yellow;
+    color: black;
+    border-radius: 50px;
+    font-size: small;
+    cursor: pointer;
+}
